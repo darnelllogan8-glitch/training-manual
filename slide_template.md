@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "This is Our Slide Deck!"
 ---
 
 _slids/##-darnelllogan8.md
