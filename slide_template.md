@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+_slids/##-darnelllogan8.md
 
 IMAGE
 {: .center}
